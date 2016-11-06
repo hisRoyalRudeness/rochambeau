@@ -19,7 +19,7 @@ int main ()
     int compScore=0;
     int humanScore=0;
     
-    cout << "Welcome to rock paper scissors! Remember to only use lowercase. First to 7 wins!";
+    cout << "Welcome to rock paper scissors! Remember to only use lowercase. First to 7 wins!\n";
     
     int count = 50;
     while (count > 0)
